@@ -1,0 +1,3927 @@
+
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♠4, ♦Q, ♥5
+Player 2 played the following cards this round:♦4, ♦A, ♣Q
+Player 2 won this round.
+Player 1 deck count:22
+Player 2 deck count:30
+
+Player 1 played the following cards this round:♠6, ♣7, ♥10
+Player 2 played the following cards this round:♣6, ♥6, ♦2
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♥3
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♦3, ♥Q, ♦J
+Player 2 played the following cards this round:♣3, ♠9, ♦5
+Player 1 won this round.
+Player 1 deck count:29
+Player 2 deck count:23
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:28
+Player 2 deck count:24
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♥9
+Player 2 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♠Q
+Player 2 played the following cards this round:♦8
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♠7
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♠10
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♠J, ♥A, ♠2
+Player 2 played the following cards this round:♣J, ♥8, ♠K
+Player 2 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♠3
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦K
+Player 2 played the following cards this round:♠8
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♦7
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♥7
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♦2
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♣Q
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♠4
+Player 1 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♦J
+Player 2 played the following cards this round:♦10
+Player 1 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♥Q
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♦3
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♣8
+Player 2 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♥9
+Player 2 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♠5
+Player 1 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♠Q
+Player 2 played the following cards this round:♣9
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦8
+Player 2 played the following cards this round:♣5
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♠7
+Player 1 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:28
+Player 2 deck count:24
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:28
+Player 2 deck count:24
+
+Player 1 played the following cards this round:♠3
+Player 2 played the following cards this round:♥8
+Player 2 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♦K
+Player 2 played the following cards this round:♣J
+Player 1 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♠8
+Player 2 played the following cards this round:♠J
+Player 2 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♦7
+Player 1 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♥7
+Player 2 played the following cards this round:♦6
+Player 1 won this round.
+Player 1 deck count:28
+Player 2 deck count:24
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♥2, ♦4, ♣7
+Player 2 played the following cards this round:♦2, ♣6, ♣Q
+Player 2 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♥10
+Player 2 won this round.
+Player 1 deck count:22
+Player 2 deck count:30
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦Q
+Player 1 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♥3
+Player 1 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♦J
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:22
+Player 2 deck count:30
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:22
+Player 2 deck count:30
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♣8
+Player 1 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♠Q
+Player 2 played the following cards this round:♦5
+Player 1 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦8
+Player 2 played the following cards this round:♥9
+Player 2 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♠3
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♥8
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♠2
+Player 2 played the following cards this round:♦9
+Player 2 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♠8
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦K
+Player 2 played the following cards this round:♠J
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♣A, ♦7, ♦6
+Player 2 played the following cards this round:♠A, ♥6, ♣Q
+Player 2 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♥7
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦2
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♣7
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♣6
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦3
+Player 2 played the following cards this round:♠6
+Player 2 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♥10
+Player 2 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♦10
+Player 2 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♠Q
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:22
+Player 2 deck count:30
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:21
+Player 2 deck count:31
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♠9
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♠3
+Player 2 played the following cards this round:♥9
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♦8
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♥8
+Player 2 played the following cards this round:♥J
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠8
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♦K
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♦9
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♥7
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♣Q
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦7
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦2
+Player 2 played the following cards this round:♦6
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♣A
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♥6
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♣6
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♠4
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥5, ♣9, ♠8
+Player 2 played the following cards this round:♠5, ♦A, ♠6
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠2
+Player 2 played the following cards this round:♣8
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦K
+Player 2 played the following cards this round:♥10
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♦5
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♦10
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣K, ♦7, ♥6
+Player 2 played the following cards this round:♥K, ♠Q, ♥Q
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠8
+Player 2 played the following cards this round:♣5
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♦A
+Player 2 played the following cards this round:♣10
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♠7
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♠9
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♦3, ♣4, ♦K
+Player 2 played the following cards this round:♠3, ♥9, ♦8
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♠J, ♦5, ♣3
+Player 2 played the following cards this round:♥J, ♥8, ♠K
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♠10
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♣J
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠8
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣10
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦A
+Player 2 played the following cards this round:♥7
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♣Q
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♦4
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥9
+Player 2 played the following cards this round:♦2
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦K
+Player 2 played the following cards this round:♦6
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♦3
+Player 2 played the following cards this round:♣A
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦8
+Player 2 played the following cards this round:♣7
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♣6
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠3
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥4, ♥10, ♦Q
+Player 2 played the following cards this round:♠4, ♥3, ♣8
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♦A
+Player 2 played the following cards this round:♦9
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♥7
+Player 2 played the following cards this round:♦10
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♥9
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦2
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♦6, ♦K, ♦8
+Player 2 played the following cards this round:♥6, ♦7, ♣K
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♠3
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♠5
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♠7
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♠6
+Player 2 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♠9
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♠J
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♠2
+Player 2 played the following cards this round:♥8
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♦5
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♦A
+Player 2 played the following cards this round:♥J
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♣J
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♣5
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♠8
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♣9
+Player 1 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♦A
+Player 2 played the following cards this round:♣Q
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♣A
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♣6
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♦A
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♥7
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♦10
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♥9
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♦3
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♦2
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♦7
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♥6
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♦A
+Player 2 played the following cards this round:♣K
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♦8
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♥7
+Player 2 played the following cards this round:♦6
+Player 1 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♣7
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♦2
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♠3
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♠5
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♦A
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♦8
+Player 2 played the following cards this round:♠7
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♠4
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♦6, ♥7, ♣9
+Player 2 played the following cards this round:♠6, ♥3, ♣8
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♠9
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♠J
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♠3
+Player 2 played the following cards this round:♥10
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♥8
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♦9
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦A
+Player 2 played the following cards this round:♠K
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♦8
+Player 2 played the following cards this round:♣J
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♦Q
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♠8
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♠10
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♥7
+Player 2 played the following cards this round:♦5
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠J, ♣Q, ♠5
+Player 2 played the following cards this round:♥J, ♣A, ♣2
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♠2
+Player 2 played the following cards this round:♦10
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♥8
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♠K
+Player 2 played the following cards this round:♣5
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♦A
+Player 2 played the following cards this round:♥9
+Player 1 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♣6
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♦7
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥4, ♥7, ♦5
+Player 2 played the following cards this round:♣4, ♦2, ♥K
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♥6
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♣7
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♠9
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♠3
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♥10
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦9
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♣J
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♠K
+Player 2 played the following cards this round:♦8
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♦A, ♥9, ♦3
+Player 2 played the following cards this round:♥A, ♦Q, ♠8
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♠6
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣8
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♠10
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♥3
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♣10
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♦6
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♦10
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♥8
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♥Q
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♠7
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♠K
+Player 2 played the following cards this round:♠4
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♦8
+Player 2 played the following cards this round:♣6
+Player 1 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:21
+Player 2 deck count:31
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♦7
+Player 1 won this round.
+Player 1 deck count:22
+Player 2 deck count:30
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:21
+Player 2 deck count:31
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♣10
+Player 2 played the following cards this round:♦5
+Player 1 won this round.
+Player 1 deck count:21
+Player 2 deck count:31
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:21
+Player 2 deck count:31
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♦2
+Player 1 won this round.
+Player 1 deck count:22
+Player 2 deck count:30
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♥7
+Player 1 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♠2
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:23
+Player 2 deck count:29
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♠5
+Player 1 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♥Q
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♠3
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♣J
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♣5
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♠K
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♠8
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦8
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♥9
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:24
+Player 2 deck count:28
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦7
+Player 2 played the following cards this round:♠6
+Player 1 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♣10
+Player 2 played the following cards this round:♥6
+Player 1 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♣7
+Player 1 won this round.
+Player 1 deck count:27
+Player 2 deck count:25
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♠10
+Player 2 won this round.
+Player 1 deck count:26
+Player 2 deck count:26
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♥8
+Player 2 won this round.
+Player 1 deck count:25
+Player 2 deck count:27
+
+Player 1 played the following cards this round:♦2, ♦10, ♥4, ♣Q, ♥7
+Player 2 played the following cards this round:♥2, ♠Q, ♦4, ♦K, ♠J
+Player 2 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♥3
+Player 1 won this round.
+Player 1 deck count:21
+Player 2 deck count:31
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♥Q
+Player 2 played the following cards this round:♥J
+Player 1 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♠3
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♣J
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♠7
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♦3
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♥9
+Player 2 played the following cards this round:♠8
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣6
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♦8
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦7
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣10
+Player 2 played the following cards this round:♦5
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♠10
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♦6
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♥8
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♦2
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥Q, ♣K, ♠2
+Player 2 played the following cards this round:♠Q, ♥4, ♦10
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♠8
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♥9
+Player 2 played the following cards this round:♥7
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♣Q
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♠J
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣10
+Player 2 played the following cards this round:♠5
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♠3
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♦2
+Player 2 played the following cards this round:♦9
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♥J, ♥9, ♥7
+Player 2 played the following cards this round:♣J, ♠7, ♣5
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♠4
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣10
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♦8
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♣8
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠3
+Player 2 played the following cards this round:♦7
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♥6
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♥7
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♠10
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♣7
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥9
+Player 2 played the following cards this round:♥8
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♥3
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♠Q
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦3
+Player 2 played the following cards this round:♦10
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣10
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♣K
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♠8
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♥J
+Player 2 played the following cards this round:♣Q
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥8
+Player 2 played the following cards this round:♠6
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♥9
+Player 2 played the following cards this round:♠J
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♦5
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♠Q
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♠2
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♥10
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♦9
+Player 2 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♦2
+Player 1 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♦4
+Player 2 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♠4
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♥8
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♣6
+Player 2 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♦8
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♠5
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♦2, ♥4, ♠6
+Player 2 played the following cards this round:♣2, ♦A, ♦Q
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♦6
+Player 2 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♠3
+Player 2 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♥8
+Player 2 played the following cards this round:♦7
+Player 1 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♣A, ♠5, ♥8
+Player 2 played the following cards this round:♠A, ♥7, ♣5
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♦7, ♣A, ♠A
+Player 2 played the following cards this round:♣7, ♦3, ♦10
+Player 1 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♥7
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♥8
+Player 2 played the following cards this round:♠9
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♣K
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♥6
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♠7
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♦3
+Player 2 played the following cards this round:♠8
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♦7
+Player 2 played the following cards this round:♣Q
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♥J
+Player 2 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♥9
+Player 2 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♠J
+Player 1 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♥3
+Player 1 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♥K
+Player 1 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♥10
+Player 1 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♥K
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♠2
+Player 2 played the following cards this round:♣8
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♦9
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♥K
+Player 2 played the following cards this round:♠10
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣6
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♦5
+Player 1 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♣J
+Player 2 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♦8
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♥K
+Player 2 played the following cards this round:♦2
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♠6
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♠4
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♦6
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♦2, ♥K, ♠6
+Player 2 played the following cards this round:♥2, ♠3, ♣10
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣5
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♥7
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♠9
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♥8
+Player 2 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♠5
+Player 2 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♣K
+Player 1 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣7
+Player 1 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♠8
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♦7
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♣Q
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♦10
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♦3
+Player 2 played the following cards this round:♥J
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♥6
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♠8
+Player 2 played the following cards this round:♥9
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♠7
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♦7
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♠J
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♥3
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣8
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♣J
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♥10
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♠2
+Player 2 played the following cards this round:♦8
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♠10
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦9
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♦6
+Player 1 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♦2
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♠3
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♠6
+Player 1 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣K, ♣4, ♣A
+Player 2 played the following cards this round:♥K, ♣6, ♥7
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♦2, ♣3, ♠A
+Player 2 played the following cards this round:♣2, ♠9, ♥8
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♠3
+Player 2 played the following cards this round:♦5
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♠4
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♠5
+Player 1 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♣5
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♥7
+Player 2 played the following cards this round:♣Q
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣7
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♥J
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♠8
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥K
+Player 2 played the following cards this round:♥9
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♦7
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♦10
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♥6
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦2
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♠J
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♥8
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♠10
+Player 2 played the following cards this round:♣J
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♥3
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♣8
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♦8
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦3
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥9
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♥K
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♠7
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦7
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♦6
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥3, ♠4, ♠2
+Player 2 played the following cards this round:♠3, ♦5, ♣5
+Player 2 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦9
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♥K
+Player 2 played the following cards this round:♥7
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♣Q
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♣6
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♥J
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♠8
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♦10
+Player 2 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥7
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♥K
+Player 2 played the following cards this round:♠9
+Player 1 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♥6
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♠8
+Player 2 played the following cards this round:♦2
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♦J
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♥8
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♠10
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♣J
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♠5
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♣8
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♠6
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♥K, ♥10, ♥6
+Player 2 played the following cards this round:♠K, ♣7, ♦8
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♦2
+Player 2 played the following cards this round:♥9
+Player 2 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♠8
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♠A
+Player 2 played the following cards this round:♣10
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♦J
+Player 2 played the following cards this round:♦7
+Player 1 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♣J, ♣A, ♠5, ♣K, ♠6
+Player 2 played the following cards this round:♠J, ♥Q, ♦5, ♠2, ♠4
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♥3
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♣5
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♦3, ♠A, ♣10
+Player 2 played the following cards this round:♠3, ♥5, ♦K
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♦J
+Player 2 played the following cards this round:♣Q
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦7
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠2
+Player 2 played the following cards this round:♥J
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♠7
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♦9
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦10
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♥7
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥Q
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♦6
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♠9
+Player 2 played the following cards this round:♥8
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♠10
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♣8
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦7
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♥6
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♠7
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♥10
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♣7
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♦8
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♥Q
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠9, ♥8, ♣5
+Player 2 played the following cards this round:♥9, ♦2, ♦A
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♠8
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♦7
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♣10
+Player 1 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♠3
+Player 1 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♣Q
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♦8
+Player 2 played the following cards this round:♥J
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♥Q
+Player 2 played the following cards this round:♣9
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♠6
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♠5
+Player 1 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣10
+Player 2 played the following cards this round:♦9
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♠4
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠3
+Player 2 played the following cards this round:♥7
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♦5
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♠J
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦3
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♦6
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♥3
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♣6
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♠2
+Player 2 played the following cards this round:♠10
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♥Q
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♣8
+Player 1 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♠7
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣10
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♥10
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦5, ♣A, ♠J
+Player 2 played the following cards this round:♣5, ♦2, ♥9
+Player 1 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♠9
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♥8
+Player 1 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♥3
+Player 2 played the following cards this round:♠8
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:20
+Player 2 deck count:32
+
+Player 1 played the following cards this round:♣6
+Player 2 played the following cards this round:♦7
+Player 2 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♥Q
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♣7
+Player 1 won this round.
+Player 1 deck count:19
+Player 2 deck count:33
+
+Player 1 played the following cards this round:♣9
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:18
+Player 2 deck count:34
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♦8
+Player 2 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♥J
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♠6
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♣A
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♥7
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦2
+Player 2 played the following cards this round:♠3
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♥9
+Player 2 played the following cards this round:♦3
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣K
+Player 2 played the following cards this round:♠2
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥8
+Player 2 played the following cards this round:♠10
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♣J
+Player 1 won this round.
+Player 1 deck count:17
+Player 2 deck count:35
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:16
+Player 2 deck count:36
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♠7
+Player 2 won this round.
+Player 1 deck count:15
+Player 2 deck count:37
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♠5
+Player 2 won this round.
+Player 1 deck count:14
+Player 2 deck count:38
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:13
+Player 2 deck count:39
+
+Player 1 played the following cards this round:♣7
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:12
+Player 2 deck count:40
+
+Player 1 played the following cards this round:♥6
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:11
+Player 2 deck count:41
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♠4
+Player 2 won this round.
+Player 1 deck count:10
+Player 2 deck count:42
+
+Player 1 played the following cards this round:♣A, ♥5, ♥7
+Player 2 played the following cards this round:♦A, ♥10, ♠9
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♦6
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♥9
+Player 2 played the following cards this round:♠8
+Player 1 won this round.
+Player 1 deck count:9
+Player 2 deck count:43
+
+Player 1 played the following cards this round:♦3, ♣K, ♠2
+Player 2 played the following cards this round:♥3, ♣6, ♦7
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣Q
+Player 2 played the following cards this round:♠A
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♦10
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♦6
+Player 2 played the following cards this round:♥Q
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♠J
+Player 2 played the following cards this round:♦K
+Player 2 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♠8
+Player 2 played the following cards this round:♣9
+Player 2 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♥9
+Player 2 played the following cards this round:♦J
+Player 2 won this round.
+Player 1 deck count:2
+Player 2 deck count:50
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♥2
+Player 1 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♦8
+Player 1 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♥2
+Player 2 played the following cards this round:♥J
+Player 2 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♦9
+Player 1 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♣4
+Player 1 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♦8
+Player 2 played the following cards this round:♠6
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♦10
+Player 2 played the following cards this round:♠Q
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♣5
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♦2
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♠3
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♦8
+Player 2 played the following cards this round:♥A
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♦5
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣5
+Player 2 played the following cards this round:♥8
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♦9
+Player 2 played the following cards this round:♠10
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♦2
+Player 2 played the following cards this round:♥K
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♥4
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♣3
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♠3
+Player 2 played the following cards this round:♠7
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♦4
+Player 1 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♠5
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♥4
+Player 2 played the following cards this round:♣10
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♣8
+Player 1 won this round.
+Player 1 deck count:8
+Player 2 deck count:44
+
+Player 1 played the following cards this round:♣4
+Player 2 played the following cards this round:♣7
+Player 2 won this round.
+Player 1 deck count:7
+Player 2 deck count:45
+
+Player 1 played the following cards this round:♣3
+Player 2 played the following cards this round:♠K
+Player 2 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♦4
+Player 2 played the following cards this round:♥6
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♦5
+Player 2 played the following cards this round:♦Q
+Player 2 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♣2
+Player 1 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♠4
+Player 1 won this round.
+Player 1 deck count:6
+Player 2 deck count:46
+
+Player 1 played the following cards this round:♣8
+Player 2 played the following cards this round:♣A
+Player 2 won this round.
+Player 1 deck count:5
+Player 2 deck count:47
+
+Player 1 played the following cards this round:♣J
+Player 2 played the following cards this round:♦A
+Player 2 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♣2
+Player 2 played the following cards this round:♠9
+Player 2 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♥5
+Player 1 won this round.
+Player 1 deck count:4
+Player 2 deck count:48
+
+Player 1 played the following cards this round:♠4
+Player 2 played the following cards this round:♥10
+Player 2 won this round.
+Player 1 deck count:3
+Player 2 deck count:49
+
+Player 1 played the following cards this round:♠5
+Player 2 played the following cards this round:♥7
+Player 2 won this round.
+Player 1 deck count:2
+Player 2 deck count:50
+
+Player 1 played the following cards this round:♥5
+Player 2 played the following cards this round:♦7
+Player 2 won this round.
+Player 1 deck count:1
+Player 2 deck count:51
+
+Player 1 played the following cards this round:♠6
+Player 2 played the following cards this round:♣K
+Player 2 won this round.
+Player 1 deck count:0
+Player 2 deck count:52
+
+The game has ended.  The game was won by Player 2.
